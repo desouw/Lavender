@@ -31,7 +31,7 @@
 
 /* Imports your desired color scheme of Lavender */
 
-@import url("https://lavender-discord.github.io/Lavender/skins/layout/lavender.css");
+@import url("https://raw.githubusercontent.com/LuckFire/amoled-cord/main/clients/amoled-cord.theme.css");
 /* Default color scheme */
 
 /*
@@ -61,7 +61,7 @@
 @import url("https://lavender-discord.github.io/Lavender/extensions/emoji-replace.css");
 /* Replaces all discord emojis with the microsoft ones */
 
-@import url("https://lavender-discord.github.io/Lavender/extensions/friends-grid.css");
+/* @import url("https://lavender-discord.github.io/Lavender/extensions/friends-grid.css"); */
 /* Makes the friends tab layout a 3 row grid */
 
 @import url("https://lavender-discord.github.io/Lavender/extensions/iconsax.css");
@@ -85,7 +85,7 @@
 
 
 /*? ====== User Action Buttons (Mute, Deafen, Settings) ======*/
-@import url("https://lavender-discord.github.io/Lavender/design/user-actions/vertical.css");
+/* @import url("https://lavender-discord.github.io/Lavender/design/user-actions/vertical.css"); */
 /* Vertical allignment on the left side in server list */
 
 /* @import url("https://lavender-discord.github.io/Lavender/design/user-actions/vertical-connected.css"); /* */
@@ -93,7 +93,7 @@
 
 
 /*? ====== Status Indicators ======*/
-@import url("https://lavender-discord.github.io/Lavender/design/status-indicators/top-right.css");
+/* @import url("https://lavender-discord.github.io/Lavender/design/status-indicators/top-right.css");*/
 /* Moves the status indicators to the upper right side of the user avatar */
 
 /* @import url("https://lavender-discord.github.io/Lavender/design/status-indicators/radial.css"); /* */
